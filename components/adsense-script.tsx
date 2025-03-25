@@ -16,7 +16,7 @@ export default function AdSenseScript() {
     <>
       <script
         async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8568138341551191"
         crossOrigin="anonymous"
       />
     </>
